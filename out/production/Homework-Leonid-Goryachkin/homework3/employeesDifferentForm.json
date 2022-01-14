@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "61d7358b170376d5ea932f35"
+  },
+  "first_name": "Richard",
+  "last_name": "Anderson",
+  "employee_id": 1,
+  "salary": 20000,
+  "position": "Manager"
+},{
+  "_id": {
+    "$oid": "61d736a8170376d5ea932f36"
+  },
+  "first_name": "Thomas",
+  "last_name": "Ent",
+  "employee_id": 2,
+  "salary": 18000,
+  "position": "Personel manager"
+},{
+  "_id": {
+    "$oid": "61d737e3170376d5ea932f37"
+  },
+  "first_name": "Corbin",
+  "last_name": "Rowen",
+  "employee_id": 3,
+  "salary": 18000,
+  "position": "IT Lead"
+},{
+  "_id": {
+    "$oid": "61d73841170376d5ea932f38"
+  },
+  "first_name": "Drake",
+  "last_name": "Koirey",
+  "employee_id": 4,
+  "salary": 16000,
+  "position": "Developer"
+},{
+  "_id": {
+    "$oid": "61d73894170376d5ea932f39"
+  },
+  "first_name": "Alex",
+  "last_name": "Holden",
+  "employee_id": 5,
+  "salary": 16000,
+  "position": "Developer"
+},{
+  "_id": {
+    "$oid": "61d73979170376d5ea932f3a"
+  },
+  "first_name": "Daniel",
+  "last_name": "Jackson",
+  "employee_id": 6,
+  "salary": 15000,
+  "position": "Server maintenance"
+},{
+  "_id": {
+    "$oid": "61d739c2170376d5ea932f3b"
+  },
+  "first_name": "Chris",
+  "last_name": "Loranger",
+  "employee_id": 7,
+  "salary": 14000,
+  "position": "Automation tester"
+},{
+  "_id": {
+    "$oid": "61d73a06170376d5ea932f3c"
+  },
+  "first_name": "Arthur",
+  "last_name": "Fuster",
+  "employee_id": 8,
+  "salary": 14000,
+  "position": "Automation tester"
+},{
+  "_id": {
+    "$oid": "61d73a4c170376d5ea932f3d"
+  },
+  "first_name": "Dominic",
+  "last_name": "Hoover",
+  "employee_id": 9,
+  "salary": 12000,
+  "position": "Manual tester"
+},{
+  "_id": {
+    "$oid": "61d73a96170376d5ea932f3e"
+  },
+  "first_name": "Matt",
+  "last_name": "Smith",
+  "employee_id": 10,
+  "salary": 12000,
+  "position": "Manual tester"
+}]

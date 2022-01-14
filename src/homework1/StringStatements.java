@@ -1,4 +1,4 @@
-package homework;
+package homework1;
 
 import java.util.stream.IntStream;
 
@@ -11,7 +11,7 @@ public class StringStatements {
 		String test = name.concat(" is cool");
 		System.out.println(test);
 		//This one just repeats same string n (2) times
-		test = name.repeat(2);
+
 		System.out.println(test);
 		//Replaces the chosen char with a new one
 		test = name.replace('i', 'o');
@@ -26,13 +26,13 @@ public class StringStatements {
 		test = name.replaceFirst(name, test);
 		System.out.println(test);
 		//If there is a space at the beginning and ending of the string, it will remove it
-		test = name.strip();
+
 		System.out.println(test);
 		//This one removes space only at the beginning
-		test = name.stripLeading();
+
 		System.out.println(test);
 		//This removes the one a the end
-		test = name.stripTrailing();
+
 		System.out.println(test);
 		//Cuts the string and gives you the result without the cut part
 		test = name.substring(7);
