@@ -1,0 +1,11 @@
+_id,employee_id,first_name,last_name,position,salary
+61d7358b170376d5ea932f35,1,Richard,Anderson,Manager,20000
+61d736a8170376d5ea932f36,2,Thomas,Ent,Personel manager,18000
+61d737e3170376d5ea932f37,3,Corbin,Rowen,IT Lead,18000
+61d73841170376d5ea932f38,4,Drake,Koirey,Developer,16000
+61d73894170376d5ea932f39,5,Alex,Holden,Developer,16000
+61d73979170376d5ea932f3a,6,Daniel,Jackson,Server maintenance,15000
+61d739c2170376d5ea932f3b,7,Chris,Loranger,Automation tester,14000
+61d73a06170376d5ea932f3c,8,Arthur,Fuster,Automation tester,14000
+61d73a4c170376d5ea932f3d,9,Dominic,Hoover,Manual tester,12000
+61d73a96170376d5ea932f3e,10,Matt,Smith,Manual tester,12000
